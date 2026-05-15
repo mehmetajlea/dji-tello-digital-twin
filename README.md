@@ -23,7 +23,7 @@ The Digital Twin allows users to monitor drone states, simulate autonomous traje
 - Vite
 - HTML/CSS
 
--
+---
 
 ## System Architecture
 
