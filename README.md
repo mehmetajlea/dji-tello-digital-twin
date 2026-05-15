@@ -1,7 +1,11 @@
+Digital Twin for DJI Tello Drone 
+
+
+
 
 <img width="1909" height="942" alt="dashboard png" src="https://github.com/user-attachments/assets/2f74a10b-819b-49a7-a5a0-db60ea9dbe63" />
 
-Digital Twin for DJI Tello Drone 
+
 This project implements a real time Digital Twin for the DJI Tello drone. It features a modern web architecture using Python (FastAPI) for the backend logic and React (Three.js) for the 3D visualization. The system allows users to simulate flight movements, monitor telemetry, and test autonomous trajectories in a safe virtual environment.
 
 Backend: FastAPI (Python) - Handles simulation logic and WebSocket management.
