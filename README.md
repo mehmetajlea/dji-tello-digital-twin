@@ -1,5 +1,6 @@
 # DJI Tello Digital Twin System
 
+
 <img width="1909" height="942" alt="dashboard png" src="https://github.com/user-attachments/assets/2f74a10b-819b-49a7-a5a0-db60ea9dbe63" />
 
 ## Overview
@@ -11,7 +12,7 @@ The system was developed as part of a robotics and intelligent systems project f
 
 The Digital Twin allows users to monitor drone states, simulate autonomous trajectories, visualize telemetry in real time, and interact with the UAV through a modern dashboard interface.
 
----
+-
 
 ## Technologies Used
 
@@ -22,7 +23,7 @@ The Digital Twin allows users to monitor drone states, simulate autonomous traje
 - Vite
 - HTML/CSS
 
----
+-
 
 ## System Architecture
 
