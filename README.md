@@ -12,7 +12,7 @@ The system was developed as part of a robotics and intelligent systems project f
 
 The Digital Twin allows users to monitor drone states, simulate autonomous trajectories, visualize telemetry in real time, and interact with the UAV through a modern dashboard interface.
 
--
+***
 
 ## Technologies Used
 
